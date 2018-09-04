@@ -1,1 +1,3 @@
-# blog
+# Welcome
+
+Welcome to my blog. 
